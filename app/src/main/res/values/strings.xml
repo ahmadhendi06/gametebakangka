@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cobagame</string>
+    <string name="bisakah_kamu_menebak">Bisakah kamu menebak?</string>
+    <string name="menebak_angka_antara_1_sampai_10">Game menebak angka antara 1 sampai 10</string>
+    <string name="Tebak">Tebak</string>
+    <string name="coba_tebak">Coba Masukkan Tebakan mu</string>
+</resources>
